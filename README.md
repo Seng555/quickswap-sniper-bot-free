@@ -9,7 +9,12 @@ I have nothing to do with your profit, loss and capital. Bot is free
 ## NOW THE BOT IS POSSIBLE FOR POLYGON: Quickswap (DEFAULT)
   YOU CAN USE TO ANY DEFI SAME UNISWAP V2 AND Quickswap, BUT YOU NEED TO CHANGE pairabi, pancakeABI AND pancakeSwapFactoryABI ADN RPC
 
- 
+## pancakeswap sniper bot free BSC
+ - Download https://github.com/Seng555/pancakeswap-sniper-bot-free
+## quickswap sniper bot free POLYGON
+ - Download https://github.com/Seng555/quickswap-sniper-bot-free
+## TraderJoe Sniper bot free AVAX
+ - Download https://github.com/Seng555/quickswap-sniper-bot-free
 
 ## IMPORTANT NOTES BEFORE RUNNING THE BOT
  1. CHECK TOKEN YOU WANT TO SNIPER IT NOT SCAM OR HONEYPOT OR SNIPER PROTECTION TOKEN (90% NEW TOKEN CAN BE SCAM)

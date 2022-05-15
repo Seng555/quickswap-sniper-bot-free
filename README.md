@@ -14,7 +14,7 @@ I have nothing to do with your profit, loss and capital. Bot is free
 ## quickswap sniper bot free POLYGON
  - Download https://github.com/Seng555/quickswap-sniper-bot-free
 ## TraderJoe Sniper bot free AVAX
- - Download https://github.com/Seng555/quickswap-sniper-bot-free
+ - Download https://github.com/Seng555/Trader-Joe-Sniper-bot-free
 
 ## IMPORTANT NOTES BEFORE RUNNING THE BOT
  1. CHECK TOKEN YOU WANT TO SNIPER IT NOT SCAM OR HONEYPOT OR SNIPER PROTECTION TOKEN (90% NEW TOKEN CAN BE SCAM)

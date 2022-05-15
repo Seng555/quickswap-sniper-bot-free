@@ -69,4 +69,4 @@ The not guarantee make profit every token you snipe, do you research token info 
 * there are some reason if your tx failed :
 - you haven't approve your WMATIC or Any Token you want to buy or sell
 - your gas price are to small
-- your GWEI are to small (BSC use 50+ for fast)
+- your GWEI are to small (POLYGON use 50+ for fast)
